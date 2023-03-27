@@ -1,0 +1,15 @@
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\bin\Debug\net7.0\1097.exe
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\bin\Debug\net7.0\1097.deps.json
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\bin\Debug\net7.0\1097.runtimeconfig.json
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\bin\Debug\net7.0\1097.dll
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\bin\Debug\net7.0\1097.pdb
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.csproj.AssemblyReference.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.AssemblyInfoInputs.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.AssemblyInfo.cs
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.dll
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\refint\1097.dll
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.pdb
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\1097.genruntimeconfig.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1097\obj\Debug\net7.0\ref\1097.dll
