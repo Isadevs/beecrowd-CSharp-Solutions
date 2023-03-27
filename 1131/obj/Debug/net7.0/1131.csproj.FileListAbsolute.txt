@@ -1,0 +1,15 @@
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.csproj.AssemblyReference.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.AssemblyInfoInputs.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.AssemblyInfo.cs
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\bin\Debug\net7.0\1131.exe
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\bin\Debug\net7.0\1131.deps.json
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\bin\Debug\net7.0\1131.runtimeconfig.json
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\bin\Debug\net7.0\1131.dll
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\bin\Debug\net7.0\1131.pdb
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.dll
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\refint\1131.dll
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.pdb
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\1131.genruntimeconfig.cache
+C:\Users\Isabella\beecrowd-CSharp-Solutions\1131\obj\Debug\net7.0\ref\1131.dll
