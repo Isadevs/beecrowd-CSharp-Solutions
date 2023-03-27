@@ -38,7 +38,7 @@ Grenal é: disputa de times do futebol brasileiro
 string[] num_gols;
 
 Console.WriteLine("Novo grenal (1-sim 2-nao)");
-int op = int.Parse(Console.ReadLine());
+int op = int.Partse(Console.ReadLine());
 
 while (op == 1)
 {
