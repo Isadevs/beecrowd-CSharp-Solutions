@@ -1,0 +1,15 @@
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\bin\Debug\net7.0\1142.exe
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\bin\Debug\net7.0\1142.deps.json
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\bin\Debug\net7.0\1142.runtimeconfig.json
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\bin\Debug\net7.0\1142.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\bin\Debug\net7.0\1142.pdb
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.AssemblyInfoInputs.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.AssemblyInfo.cs
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\refint\1142.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.pdb
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\1142.genruntimeconfig.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1142\obj\Debug\net7.0\ref\1142.dll

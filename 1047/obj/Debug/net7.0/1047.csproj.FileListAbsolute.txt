@@ -1,0 +1,15 @@
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.AssemblyInfoInputs.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.AssemblyInfo.cs
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\bin\Debug\net7.0\1047.exe
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\bin\Debug\net7.0\1047.deps.json
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\bin\Debug\net7.0\1047.runtimeconfig.json
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\bin\Debug\net7.0\1047.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\bin\Debug\net7.0\1047.pdb
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\refint\1047.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.pdb
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\1047.genruntimeconfig.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\1047\obj\Debug\net7.0\ref\1047.dll

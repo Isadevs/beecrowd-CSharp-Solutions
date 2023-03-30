@@ -1,0 +1,15 @@
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\bin\Debug\net7.0\beecrowd.exe
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\bin\Debug\net7.0\beecrowd.deps.json
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\bin\Debug\net7.0\beecrowd.runtimeconfig.json
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\bin\Debug\net7.0\beecrowd.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\bin\Debug\net7.0\beecrowd.pdb
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.AssemblyInfoInputs.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.AssemblyInfo.cs
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\refint\beecrowd.dll
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.pdb
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\beecrowd.genruntimeconfig.cache
+C:\Users\i.rodrigues.ramos\Documents\JoseSantosCurso\beecrowd\obj\Debug\net7.0\ref\beecrowd.dll
