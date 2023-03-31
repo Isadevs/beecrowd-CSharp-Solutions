@@ -37,15 +37,59 @@ Grenal é: disputa de times do futebol brasileiro
 
 string[] num_gols;
 
+
+int grenais = 1;
+int numGols_Inter = 0;
+int numGols_Gremio = 0;
+int placar_inter = 0;
+int placar_gremio = 0;
+int empates = 0;
+
+num_gols = Console.ReadLine().Split(' ');
+
 Console.WriteLine("Novo grenal (1-sim 2-nao)");
-int op = int.Parse(Console.ReadLine());
+int op = Convert.ToInt32(Console.ReadLine());
+
 
 while (op == 1)
 {
-    num_gols = Console.ReadLine().Split(' ');
+   
+    numGols_Inter = Convert.ToInt32(num_gols[0]);
+    numGols_Gremio = Convert.ToInt32(num_gols[1]);
 
-    Console.WriteLine(int.Parse(num_gols[0]));
-    Console.WriteLine(int.Parse(num_gols[1]));
+    if (numGols_Inter > numGols_Gremio)
+    {
+        placar_inter = placar_inter + 1;
+    }
+    else if (numGols_Inter == numGols_Gremio)
+    {
+        empates = empates + 1 ;
+    }
+    else
+    {
+        placar_gremio = placar_gremio + 1;
+    }
+    
+    num_gols = Console.ReadLine().Split(' ');
+    Console.WriteLine("Novo grenal (1-sim 2-nao)");
+    op = Convert.ToInt32(Console.ReadLine());
+
+    grenais++;
+
+}
+
+Console.WriteLine($"{grenais} grenais");
+Console.WriteLine($" Inter:{placar_inter}");
+Console.WriteLine($" Gremio:{placar_gremio}");
+Console.WriteLine($" Empates:{placar_gremio}");
+
+if (placar_inter > placar_gremio)
+{
+    Console.WriteLine("Inter venceu mais");
+}
+else
+{
+    Console.WriteLine("Gremio venceu mais");
 }
 
 
