@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\1131\\1131.csproj": {}
+    "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\teste\\teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\1131\\1131.csproj": {
+    "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\teste\\teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\1131\\1131.csproj",
-        "projectName": "1131",
-        "projectPath": "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\1131\\1131.csproj",
+        "projectUniqueName": "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\teste\\teste.csproj",
+        "projectName": "teste",
+        "projectPath": "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\teste\\teste.csproj",
         "packagesPath": "C:\\Users\\i.rodrigues.ramos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\1131\\obj\\",
+        "outputPath": "C:\\Users\\i.rodrigues.ramos\\beecrowd-CSharp-Solutions\\teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\i.rodrigues.ramos\\AppData\\Roaming\\NuGet\\NuGet.Config"
